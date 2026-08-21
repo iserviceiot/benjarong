@@ -1,0 +1,10 @@
+=== Benjarong iDoc Summary Export ===
+
+Title: ร่างแผนหัวข้อการนำเสนอผลประโยชน์ต่างตอบแทน (Win-Win Partnership Proposal)
+Filename: Win-Win Partnership Proposal Outline.pdf
+Categories: ยุทธศาสตร์และข้อเสนอพันธมิตร (Strategy & Partnership), แผนธุรกิจและโมเดลธุรกิจ (Business Model & Plan)
+Agency: มูลนิธินพเฉลิมโรจน์ ร่วมกับ ททท. / กระทรวงการท่องเที่ยวและกีฬา
+Analyzed At: 2026-08-20 13:22:13
+
+Summary:
+ข้อเสนอพันธมิตรเชิงยุทธศาสตร์เพื่อขับเคลื่อน National Tourism Platform บน Government Cloud (GDCC) 100% ปกป้องอธิปไตยทางข้อมูล และสร้างระบบนิเวศการท่องเที่ยวที่เป็นธรรม โดยนำเสนอผลประโยชน์ต่างตอบแทนแก่ภาคเอกชน อาทิ สายการบิน (First-Touch Booking, Targeted Ad), ห้างสรรพสินค้า/โมเดลการ์ด (Foot Traffic Driver, E-Coupon, Tax Refund Integration) และสถาบันการเงิน (Exclusive Payment Gateway, New Account Acquisition)

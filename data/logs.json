@@ -1,0 +1,354 @@
+[
+  {
+    "id": "log-044",
+    "timestamp": "2026-08-21 02:37:16",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-043",
+    "timestamp": "2026-08-21 02:37:13",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-042",
+    "timestamp": "2026-08-21 01:52:31",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-041",
+    "timestamp": "2026-08-21 01:52:27",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-040",
+    "timestamp": "2026-08-21 01:34:11",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-039",
+    "timestamp": "2026-08-21 01:34:07",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-038",
+    "timestamp": "2026-08-21 01:17:37",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-037",
+    "timestamp": "2026-08-21 01:17:33",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-036",
+    "timestamp": "2026-08-21 01:14:04",
+    "action": "ADD_FILE",
+    "details": "เพิ่มไฟล์ใหม่ 'beta_Ver01.pdf' (หมวดหมู่: ยุทธศาสตร์และข้อเสนอพันธมิตร (Strategy & Partnership))",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-035",
+    "timestamp": "2026-08-21 01:11:49",
+    "action": "EXPORT_AI_QUERY",
+    "details": "ส่งออกคำตอบ AI เป็น PDF (ภาษาไทย)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-034",
+    "timestamp": "2026-08-21 01:11:47",
+    "action": "DOWNLOAD_CUSTOM",
+    "details": "ดาวน์โหลดแพ็กเกจเอกสาร 'Win-Win Partnership Proposal Outline.pdf' ตาม Checklist ที่เลือก",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-033",
+    "timestamp": "2026-08-21 01:10:41",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-032",
+    "timestamp": "2026-08-21 01:10:37",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-031",
+    "timestamp": "2026-08-21 01:05:05",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-030",
+    "timestamp": "2026-08-21 01:02:08",
+    "action": "AI_QUERY",
+    "details": "สอบถาม AI: 'สรุปสัดส่วนงบประมาณโครงการ 50 ล้านบาท'",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-029",
+    "timestamp": "2026-08-21 01:00:27",
+    "action": "EXPORT_REPORT",
+    "details": "ส่งออกรายงาน PDF ภาษาไทยแบบกำหนดเอง (จำนวน 7 เอกสาร)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-028",
+    "timestamp": "2026-08-21 00:48:30",
+    "action": "EXPORT_REPORT",
+    "details": "ส่งออกรายงาน PDF ภาษาไทยแบบกำหนดเอง (จำนวน 7 เอกสาร)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-027",
+    "timestamp": "2026-08-21 00:47:55",
+    "action": "DOWNLOAD_FILE",
+    "details": "ดาวน์โหลดไฟล์สรุปเนื้อหา 'Win-Win Partnership Proposal Outline.pdf'",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-026",
+    "timestamp": "2026-08-21 00:44:56",
+    "action": "EXPORT_REPORT",
+    "details": "ส่งออกรายงาน PDF ภาษาไทยแบบกำหนดเอง (จำนวน 7 เอกสาร)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-025",
+    "timestamp": "2026-08-21 00:44:14",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-024",
+    "timestamp": "2026-08-21 00:44:12",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-023",
+    "timestamp": "2026-08-21 00:28:06",
+    "action": "AI_QUERY",
+    "details": "สอบถาม AI: 'ข้อตกลงและบทบาทหน้าที่ภาคี 4 ฝ่าย ตาม MOU'",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-022",
+    "timestamp": "2026-08-21 00:25:16",
+    "action": "DOWNLOAD_FILE",
+    "details": "ดาวน์โหลดไฟล์สรุปเนื้อหา 'Win-Win Partnership Proposal Outline.pdf'",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-021",
+    "timestamp": "2026-08-21 00:18:32",
+    "action": "EXPORT_REPORT",
+    "details": "ส่งออกรายงาน DOCX แบบกำหนดเอง (จำนวน 2 เอกสาร)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-020",
+    "timestamp": "2026-08-21 00:17:52",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-019",
+    "timestamp": "2026-08-21 00:17:49",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Benjarong iDoc บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-018",
+    "timestamp": "2026-08-20 23:27:48",
+    "action": "EXPORT_REPORT",
+    "details": "ส่งออกรายงานในรูปแบบ Microsoft Word (.docx)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-017",
+    "timestamp": "2026-08-20 23:27:36",
+    "action": "AI_QUERY",
+    "details": "สอบถาม AI Function: 'ข้อตกลงและบทบาทหน้าที่ภาคี 4 ฝ่าย ตาม MOU' (พบข้อมูลจาก 3 เอกสารอ้างอิง)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-016",
+    "timestamp": "2026-08-20 23:27:20",
+    "action": "AI_QUERY",
+    "details": "สอบถาม AI Function: 'สรุปสัดส่วนงบประมาณโครงการ 50 ล้านบาท' (พบข้อมูลจาก 3 เอกสารอ้างอิง)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-015",
+    "timestamp": "2026-08-20 23:26:30",
+    "action": "ANALYZE_SUMMARY",
+    "details": "ทำสั่งวิเคราะห์สรุปใหม่สำหรับเอกสาร 'เอกสารนำเข้า: beta Ver01' ณ เวลา 2026-08-20 23:26:30",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-014",
+    "timestamp": "2026-08-20 23:25:46",
+    "action": "ADD_FILE",
+    "details": "เพิ่มไฟล์ใหม่ 'beta_Ver01.pdf' (ขนาด 1.03 MB) เข้าสู่ระบบหมวดหมู่ 'ยุทธศาสตร์และข้อเสนอพันธมิตร (Strategy & Partnership)'",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-013",
+    "timestamp": "2026-08-20 23:25:11",
+    "action": "ANALYZE_SUMMARY",
+    "details": "ทำสั่งวิเคราะห์สรุปใหม่สำหรับเอกสาร 'ร่างแผนหัวข้อการนำเสนอผลประโยชน์ต่างตอบแทน (Win-Win Partnership Proposal)' ณ เวลา 2026-08-20 23:25:11",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-012",
+    "timestamp": "2026-08-20 23:25:06",
+    "action": "ANALYZE_SUMMARY",
+    "details": "ทำสั่งวิเคราะห์สรุปใหม่สำหรับเอกสาร 'ร่างแผนหัวข้อการนำเสนอผลประโยชน์ต่างตอบแทน (Win-Win Partnership Proposal)' ณ เวลา 2026-08-20 23:25:06",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-011",
+    "timestamp": "2026-08-20 23:24:36",
+    "action": "EXPORT_REPORT",
+    "details": "ส่งออกงานนำเสนอ PowerPoint (.pptx)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-010",
+    "timestamp": "2026-08-20 23:24:23",
+    "action": "EXPORT_REPORT",
+    "details": "ส่งออกรายงานในรูปแบบ Adobe PDF (.pdf)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-009",
+    "timestamp": "2026-08-20 23:24:20",
+    "action": "EXPORT_REPORT",
+    "details": "ส่งออกรายงานในรูปแบบ Adobe PDF (.pdf)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-008",
+    "timestamp": "2026-08-20 13:34:46",
+    "action": "EXPORT_REPORT",
+    "details": "ส่งออกงานนำเสนอ PowerPoint (.pptx)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-007",
+    "timestamp": "2026-08-20 13:34:45",
+    "action": "EXPORT_REPORT",
+    "details": "ส่งออกรายงานในรูปแบบ Adobe PDF (.pdf)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-006",
+    "timestamp": "2026-08-20 13:34:44",
+    "action": "EXPORT_REPORT",
+    "details": "ส่งออกรายงานในรูปแบบ Microsoft Word (.docx)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-005",
+    "timestamp": "2026-08-20 13:34:25",
+    "action": "AI_QUERY",
+    "details": "สอบถาม AI Function: 'รายละเอียดงบประมาณโครงการ' (พบข้อมูลจาก 2 เอกสารอ้างอิง)",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-004",
+    "timestamp": "2026-08-20 13:33:05",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Tourism Information Portal บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-003",
+    "timestamp": "2026-08-20 13:33:02",
+    "action": "SERVER_START",
+    "details": "เริ่มต้นเซิร์ฟเวอร์ Tourism Information Portal บนพอร์ต 5000",
+    "user": "Admin User",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-001",
+    "timestamp": "2026-08-20 13:22:13",
+    "action": "SYSTEM_INIT",
+    "details": "ระบบเปิดใช้งาน Tourism Information Web Portal พร้อม Pre-loaded เอกสารจำนวน 7 รายการ",
+    "user": "System Admin",
+    "status": "SUCCESS"
+  },
+  {
+    "id": "log-002",
+    "timestamp": "2026-08-20 13:22:14",
+    "action": "ANALYZE_SUMMARY",
+    "details": "วิเคราะห์สรุปและจัดหมวดหมู่เอกสารทั้ง 7 ฉบับเสร็จสมบูรณ์",
+    "user": "AI Summary Engine",
+    "status": "SUCCESS"
+  }
+]
